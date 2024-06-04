@@ -4,6 +4,7 @@
 
 * 💻 - Atualmente, graduando em Engenharia de Software
 * 🚧 - Em constante aprendizado no mundo de TI
+* ❌ - 'Give up the idea of ​​making me give up'
   
 <details>
   <summary>👨‍💻 - Mais sobre mim ⤵️</summary>
